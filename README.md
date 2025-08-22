@@ -1,1 +1,1 @@
-## SAP UI5 Activity Day 08 CSS
+## SAP UI5 Activity Day 08 CSS & Theme Designer
