@@ -1,0 +1,48 @@
+/* Page background */
+.sapMPage {
+  background-color: #92929B;
+}
+
+/* Header */
+.sapMBarPH {
+  background-color: #50C878;
+}
+
+/* Header Container */
+.sapMBarPH span bdi{
+  color: #4E5556;
+  font-weight: bold;
+}
+
+/* Footer */
+.sapMBarRight {
+  background-color: #707B7C;
+  border-top: 3px solid #50C878;
+}
+
+.sapMBarRight .sapMBtn .sapMBtnInner .sapMBtnContent{
+  color: #50C878;
+}
+
+/* footer and header containers */
+.sapMBarContainer span {
+  width: 100%;
+  text-align: center;
+}
+
+/* info tab */
+#__info0-header-BarPH span {
+  width: auto;
+  text-align: center;
+}
+
+/* info tab */
+#__info1-header-BarPH span {
+  width: auto;
+  text-align: center;
+}
+
+/* header spacer idk */
+.sapMBarPH .sapMLabelColonAndRequired {
+  width: 0%;
+}
